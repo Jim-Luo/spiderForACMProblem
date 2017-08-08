@@ -1,7 +1,7 @@
-from spider.HtmlDownloader import HtmlDownloader
-from spider.Outputer import Outputer
-from spider.Parser import Parser
-from spider.UrlManager import UrlManager
+from HtmlDownloader import HtmlDownloader
+from Outputer import Outputer
+from Parser import Parser
+from UrlManager import UrlManager
 
 
 class Spider(object):
